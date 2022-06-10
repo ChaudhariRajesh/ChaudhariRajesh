@@ -24,6 +24,9 @@
 	- LeetCode: https://leetcode.com/rajesh_chaudhari/
 	- HackerRank: https://www.hackerrank.com/rajeshchaudhari1
 ---
+- 📝**My published article**
+	- GeeksForGeeks: https://www.geeksforgeeks.org/paired-sample-t-test-in-excel
+---
 - 🤖 **My robotics journey**
 	- SP Robotic Works: https://sproboticworks.com/user/profile/Rajesh_Chaudhari
 ---
