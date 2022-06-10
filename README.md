@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @ChaudhariRajesh
+
 - 👀 I’m interested in
         - Programming
-
         - App Development
         - Web Development
-        - 
+
 - 🌱 I’m currently learning
         - Web Developemnt
-        - 
+
 - 💞️ I’m looking to collaborate on 
         - Projects that impact many lives
+
 
 - 📫 How to reach me
         - Email: rajeshchaudhariks503@gmail.com
