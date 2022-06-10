@@ -17,7 +17,7 @@
 - 🌱 **I’m currently learning**
 	- Web Developemnt
 ---
-- 💞️ **I’m looking to collaborate on **
+- 💞️ **I’m looking to collaborate on**
 	- Projects that make this world a better place
 ---
 - 💻 **My coding profiles**
