@@ -11,6 +11,7 @@
 	- App Development
 	- Web Development
 	- Robotics
+	- Cloud Computing
 	- Blockchain
 	- Machine Learning
 ---
