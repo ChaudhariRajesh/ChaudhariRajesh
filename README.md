@@ -16,7 +16,7 @@
 	- Machine Learning
 ---
 - 🌱 **I’m currently learning**
-	- Web Developemnt
+	- Web Development
 ---
 - 💞️ **I’m looking to collaborate on**
 	- Projects that make this world a better place
