@@ -21,6 +21,9 @@
 - 💞️ **I’m looking to collaborate on**
 	- Projects that make this world a better place
 ---
+- 📜 **My Resume**
+	- https://drive.google.com/file/d/1L-KYEydMHM68jgyPFlwN4Unhvj8EUn7A/view?usp=sharing
+---
 - 💻 **My coding profiles**
 	- LeetCode: https://leetcode.com/rajesh_chaudhari/
 	- HackerRank: https://www.hackerrank.com/rajeshchaudhari1
