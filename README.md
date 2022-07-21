@@ -21,7 +21,7 @@
 - 💞️ **I’m looking to collaborate on**
 	- Projects that make this world a better place
 ---
-- 📜 **<a target="_blank" href="https://drive.google.com/file/d/1L-KYEydMHM68jgyPFlwN4Unhvj8EUn7A/view?usp=sharing">My Resume</a>**
+- 📜 **<a href="https://drive.google.com/file/d/1L-KYEydMHM68jgyPFlwN4Unhvj8EUn7A/view?usp=sharing" target="_blank">My Resume</a>**
 
 ---
 - 💻 **My coding profiles**
