@@ -25,8 +25,8 @@
 
 ---
 - 💻 **My coding profiles**
-	- LeetCode: https://leetcode.com/rajesh_chaudhari/
-	- HackerRank: https://www.hackerrank.com/rajeshchaudhari1
+	- <a href="https://leetcode.com/rajesh_chaudhari/">LeetCode</a>
+	- <a href="https://www.hackerrank.com/rajeshchaudhari1">HackerRank</a>
 ---
 - 📝**My published article**
 	- <a href="https://www.geeksforgeeks.org/paired-sample-t-test-in-excel">Paired Sample T Test @ GeeksForGeeks.</a>
