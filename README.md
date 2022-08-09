@@ -29,10 +29,10 @@
 	- HackerRank: https://www.hackerrank.com/rajeshchaudhari1
 ---
 - 📝**My published article**
-	- GeeksForGeeks: https://www.geeksforgeeks.org/paired-sample-t-test-in-excel
+	- <a href="https://www.geeksforgeeks.org/paired-sample-t-test-in-excel">Paired Sample T Test @ GeeksForGeeks.</a>
 ---
 - 🤖 **My robotics journey**
-	- SP Robotic Works: https://sproboticworks.com/user/profile/Rajesh_Chaudhari
+	- <a href="https://sproboticworks.com/user/profile/Rajesh_Chaudhari">SP Robotic Works.</a>
 ---
 - 📫 **How to reach me**
 	- <a href="www.linkedin.com/in/rajesh-chaudhari-work">LinkedIn</a>
