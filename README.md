@@ -35,7 +35,7 @@
 	- <a href="https://sproboticworks.com/user/profile/Rajesh_Chaudhari">SP Robotic Works.</a>
 ---
 - 📫 **How to reach me**
-	- <a href="www.linkedin.com/in/rajesh-chaudhari-work">LinkedIn</a>
+	- <a href="https://www.linkedin.com/in/rajesh-chaudhari-work">LinkedIn</a>
 	- <a href="https://twitter.com/r_a_j_e_s_h_c?t=-w-v-gyxkc4sOQseYrFzFg&s=09">Twitter</a>
 	- <a href="https://www.facebook.com/rajesh.mahajan.127648">Facebook</a>
 	- <a href="https://www.instagram.com/rajesh._.chaudhari/">Instagram</a>
